@@ -3,3 +3,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huntmori&label=Profile%20views&color=0e75b6&style=flat" alt="huntmori" /> </p>
 
 <center><a href="https://opgc.me/#/users/huntmori" target="_blank"><img src="https://api.opgc.me/githubs/users/huntmori/tag/?theme=basic" /></a></center>
+
+[![spotify-github-profile](https://bd94-49-169-85-122.jp.ngrok.io/api/view?uid=31n5g43b6ej7hqzmscq573jxwcve&cover_image=true&theme=karaoke)](https://github.com/kittinan/spotify-github-profile)

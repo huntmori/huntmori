@@ -6,3 +6,6 @@
 <a href="https://opgc.me/#/users/huntmori" target="_blank"><img src="https://api.opgc.me/githubs/users/huntmori/tag/?theme=basic" /></a><br>
  ![huntmori's github stats](https://github-readme-stats.vercel.app/api?username=huntmori&show_icons=true&count_private=true)<br>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huntmori&layout=compact)<br>
+
+<b>Most Language</b>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width:50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:50px"/>

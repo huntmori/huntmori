@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm huntmori</h1>
 
 
-<b>Most Language</b>
+<b>Most Language</b><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huntmori)](https://github.com/huntmori/github-readme-stats)
 
 <hr>

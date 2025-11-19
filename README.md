@@ -3,8 +3,9 @@
 
 
 <b>Most Language</b><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huntmori)](https://github.com/huntmori/github-readme-stats)
-[![huntmori's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntmori)](https://github.com/huntmori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huntmori)](https://github.com/anuraghazra/github-readme-stats)
+
+[![huntmori's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntmori)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>

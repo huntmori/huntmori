@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm huntmori</h1>
 
 
-<b>Most Language</b><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huntmori&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![huntmori's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntmori)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <hr>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huntmori&utm_content=farm">
 <img

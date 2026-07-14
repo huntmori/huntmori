@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm huntmori</h1>
-[![My GitFut card](https://gitfut.com/huntmori)](https://gitfut.com/huntmori)
-
 
 <hr>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huntmori&utm_content=farm">

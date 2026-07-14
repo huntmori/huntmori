@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm huntmori</h1>
+[![My GitFut card](https://gitfut.com/huntmori)](https://gitfut.com/huntmori)
 
 
 <hr>

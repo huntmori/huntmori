@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm huntmori</h1>
-[![Tokenphage](https://api.tokenphage.com/badge/huntmori)](https://github.com/TOKENPHAGE)
+<a href="https://github.com/TOKENPHAGE"><img src="https://api.tokenphage.com/badge/huntmori?theme=gpu&amp;mode=dark" alt="TokenPhage gpu dark 배지"></a><br/>
 <hr>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=huntmori&utm_content=farm">
 <img
